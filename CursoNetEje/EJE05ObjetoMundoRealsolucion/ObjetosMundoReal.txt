@@ -1,0 +1,33 @@
+Características del zoo:
+	Animales
+	Hábitats
+	Ubicación
+	Capacidad de visitantes
+	Horario
+	Precio de entrada
+
+Clase Zoo:
+	Propiedad: Nombre
+	Propiedad: Ubicación
+	Propiedad: Capacidad de visitantes
+	Propiedad: Horario
+	Propiedad: Precio de entrada
+	Propiedad: Lista de animales
+	Propiedad: Lista de hábitats
+
+Clase Animal:
+	Propiedad: Nombre
+	Propiedad: Especie
+	Propiedad: Edad
+	Propiedad: Tamaño
+	Propiedad: Dieta
+	Propiedad: Hábitat
+	Propiedad: Nivel de peligro (extinto, en peligro, vulnerable, etc.)
+
+Clase Hábitat:
+	Propiedad: Tipo (selva, desierto, tundra, océano, etc.)
+	Propiedad: Tamaño
+	Propiedad: Temperatura
+	Propiedad: Vegetación
+	Propiedad: Capacidad de animales
+	Propiedad: Tipo de animales permitidos

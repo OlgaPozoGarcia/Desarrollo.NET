@@ -16,6 +16,12 @@ namespace Ejemplosclases
       int NumeroPuertas;
       int NumeroRuedas;
       int NumeroAsientos;
-      //Propiedad: Motor
+        private Motor MotorCoche;
+        private int SistemasSeguridad;
+        private ABS ABS;
+        private Airbag Airbags;
+        private int Rueda;
+        private int Sistema;
+        //Propiedad: Motor
     }
 }

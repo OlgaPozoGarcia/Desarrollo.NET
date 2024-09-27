@@ -35,11 +35,11 @@
       <FileName>Carroceria.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="EjemploClases.Empleados">
+  <Class Name="EjemploClases.Empleado">
     <Position X="0.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAQAAAEAAAAgAAAAAAAAAAIAAAAAgAAAAI=</HashCode>
-      <FileName>Empleados.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAAAMAAAAgAAAAAAAAAAIAAAAAgAAAAI=</HashCode>
+      <FileName>Empleado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Ejemplosclases.Coche">

@@ -1,12 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Ejemplosclases.Coche">
-    <Position X="0.5" Y="2.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>QAAAABAAIAAACAAAAABBAAABAAAAAAAAAggEgCAQAAI=</HashCode>
-      <FileName>Coche.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="Ejemplosclases.Motor">
     <Position X="2.25" Y="4.25" Width="1.5" />
     <TypeIdentifier>
@@ -24,7 +17,7 @@
   <Class Name="EjemploClases.SistemaSeguridad">
     <Position X="4" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAABAAAAAFBAABAAEAAAAAAAAAAAAgAAAAI=</HashCode>
+      <HashCode>AAAAAAAAAAABAAAAABBAABAAEAAAEAAAAAAAAgAAAAI=</HashCode>
       <FileName>SistemaSeguridad.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -36,10 +29,24 @@
     </TypeIdentifier>
   </Class>
   <Class Name="EjemploClases.Carroceria">
-    <Position X="11.5" Y="3.5" Width="1.5" />
+    <Position X="7.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQ=</HashCode>
       <FileName>Carroceria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjemploClases.Empleados">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAgAAAAAAAAAAIAAAAAgAAAAI=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplosclases.Coche">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAABAAIAAACAAAAAABAAABAAAAAAAAgggEgCAQAAI=</HashCode>
+      <FileName>Coche.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

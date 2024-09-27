@@ -7,14 +7,14 @@ namespace EjemploClases
 {
     public class SistemaSeguridad
     {
-        public Airbags Airbags;
-        public ABS ABS;
-        public bool ControlEstabilidad;
-        public bool FrenosDisco;
-        public bool ControlCrucero;
-        public bool AsistenciaCambioCarril;
-        public bool ReconocimientoSeñales;
-        public bool SensoresAparcamiento;
-        public bool Camara360º;
+        public string Airbags {  get; set; }
+        public string ABS {  get; set; }
+        public string ControlEstabilidad { get; set; }
+        public string FrenosDisco { get; set; }
+        public string ControlCrucero { get; set; }
+        public string AsistenciaCambioCarril {  get; set; }
+        public string ReconocimientoSeñales { get; set; }
+        public string SensoresAparcamiento { get; set; }
+        public string Camara360 { get; set; }
     }
 }

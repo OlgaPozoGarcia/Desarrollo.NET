@@ -6,22 +6,33 @@ using System.Threading.Tasks;
 
 namespace Ejemplosclases
 {
+    
+
     public class Coche
     {
-      string Marca;
-      string Modelo;
-      string Color;
-      double Consumo;
-      int Cilindrada;
-      int NumeroPuertas;
-      int NumeroRuedas;
-      int NumeroAsientos;
-        private Motor MotorCoche;
-        private int SistemasSeguridad;
-        private ABS ABS;
-        private Airbag Airbags;
-        private int Rueda;
-        private int Sistema;
-        //Propiedad: Motor
+
+    
+    //Propiedades
+
+    public string Marca {  get; set; } 
+    public string Modelo {  get; set; }
+
+    
+    //Campos
+   
+      public string Color {  get; set; }
+      public string Consumo {  get; set; }
+      public string Cilindrada {  get; set; }
+        public string NumeroPuertas {  get; set; }
+        public string NumeroRuedas {  get; set; }
+        public string NumeroAsientos {  get; set; }
+        public Motor MotorCoche {  get; set; }
+        public string SistemasSeguridad {  get; set; }
+        public string ABS {  get; set; }
+        public string Airbag {  get; set; }
+        public string Rueda {  get; set; }
+        public string Sistema {  get; set; }
+    
+    //Propiedad: Motor
     }
 }
